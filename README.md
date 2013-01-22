@@ -10,8 +10,8 @@ Installation
 ------------
 下記の手順でHerokuにpushしてください。<br>
 <code>
-git clone https://github.com/koriym/BEAR.Package.git
-heroku create -s cedar -b https://github.com/exsuzukishuhei/heroku-buildpack-bearpackage.git
+git clone https://github.com/koriym/BEAR.Package.git<br>
+heroku create -s cedar -b https://github.com/exsuzukishuhei/heroku-buildpack-bearpackage.git<br>
 git push heroku master
 </code>
 
