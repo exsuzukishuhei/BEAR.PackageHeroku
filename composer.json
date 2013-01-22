@@ -49,7 +49,8 @@
         "psr-0":{
             "BEAR\\Package":"src/",
             "Helloworld\\":"apps/",
-            "Sandbox\\":"apps/"
+            "Sandbox\\":"apps/",
+            "HerokuApp\\":"apps/"
         }
     },
     "minimum-stability":"dev",
